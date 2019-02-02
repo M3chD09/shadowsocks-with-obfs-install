@@ -1,4 +1,6 @@
 ## Shadowsocks-libev with simple-obfs installer
+Deprecated.  
+
 This shell help you install shadowsocks listening on port 443.
 ### Introduction
 Install [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) and [simple-obfs](https://github.com/shadowsocks/simple-obfs).  
